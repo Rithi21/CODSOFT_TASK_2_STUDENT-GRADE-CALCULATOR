@@ -26,4 +26,13 @@ if..else-if in Java
 
 Switch case
 
+![Screenshot (38)](https://github.com/Rithi21/CODSOFT_TASK_2_STUDENT-GRADE-CALCULATOR/assets/102675256/ea371c65-fa38-4195-b842-d6e1cae12422)
+
+![Screenshot (39)](https://github.com/Rithi21/CODSOFT_TASK_2_STUDENT-GRADE-CALCULATOR/assets/102675256/5bfa069b-cb5c-4802-adf8-388765ea896c)
+
+![Screenshot (40)](https://github.com/Rithi21/CODSOFT_TASK_2_STUDENT-GRADE-CALCULATOR/assets/102675256/7026072f-6f9f-4ebc-8d88-2e6acae1f8df)
+
+![Screenshot (41)](https://github.com/Rithi21/CODSOFT_TASK_2_STUDENT-GRADE-CALCULATOR/assets/102675256/28990844-f872-4b21-bd19-1d0680bdcb09)
+
+![Screenshot (42)](https://github.com/Rithi21/CODSOFT_TASK_2_STUDENT-GRADE-CALCULATOR/assets/102675256/1c8819fb-1724-4d24-af44-143dbb8cda96)
 
